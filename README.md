@@ -43,4 +43,3 @@ A spaceship simulator with multiple people playing together on the same keyboard
 * Medical bay
   * Text
   * Text
-Text
