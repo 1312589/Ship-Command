@@ -8,7 +8,7 @@ A spaceship simulator with multiple people playing together on the same keyboard
 ## General Ideas
 Role ideas:
 * Commander
-..*Has an overview of the entire ship and the enemy ship
+⋅⋅* Has an overview of the entire ship and the enemy ship
 ..* Controls the states (moverment/attack/etc.) of the ship
 * Gunner
 ..* Has higher accuracy and cool-down speeds on the ships guns
