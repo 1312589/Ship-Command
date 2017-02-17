@@ -16,11 +16,11 @@ A spaceship simulator with multiple people playing together on the same keyboard
   * Allows the engines to run for longer when traveling
   * Can repair damaged systems more efficiently
 * Navigator
-  * 
-  *
+  * Text
+  * Text
 * Communications officer
-  *
-  *
+  * Text
+  * Text
 * Shield operator
   * Has higher cool-down speed on shields
   * Shields have longer lives when operated
@@ -29,17 +29,18 @@ A spaceship simulator with multiple people playing together on the same keyboard
   * Can move faster than the other classes
 ### System ideas:
 * Bridge
-  *
-  *
+  * Text
+  * Text
 * Shield Generator
-  *
-  *
+  * Text
+  * Text
 * Engine Room
-  *
-  *
+  * Text
+  * Text
 * Gun room
-  *
-  *
+  * Text
+  * Text
 * Medical bay
-  *
-  *
+  * Text
+  * Text
+Text
