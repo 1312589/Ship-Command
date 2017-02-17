@@ -2,4 +2,4 @@
 
 My 2nd attempt at making a game in GameMaker!
 
-Idea: A spaceship simulator with multiple people playing together on the same keyboard and screena.da
+Idea: A spaceship simulator with multiple people playing together on the same keyboard and screen.
