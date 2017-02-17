@@ -6,7 +6,7 @@ My 2nd attempt at making a game in GameMaker!
 A spaceship simulator with multiple people playing together on the same keyboard and screen.  Each player has a different role/class and all of them must work together to achive an aim/ win a battle.
 
 ## General Ideas
-Role ideas:
+### Role ideas:
 * Commander
   * Has an overview of the entire ship and the enemy ship
   * Controls the states (moverment/attack/etc.) of the ship
@@ -27,7 +27,7 @@ Role ideas:
 * Medic
   * Can heal other members of the crew
   * Can move faster than the other classes
-System ideas:
+### System ideas:
 * Bridge
   *
   *
